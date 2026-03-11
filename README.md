@@ -1,3 +1,5 @@
+# Skill + Tools + Tech
+
 <p align="left">
   <a href="https://www.linux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/></a>
   <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" title="Ubuntu"/></a>
@@ -13,11 +15,11 @@
 
 # Network & Web Security Lab Portfolio
 
-Repository này tổng hợp toàn bộ báo cáo và minh chứng kỹ thuật từ các bài thực hành an toàn thông tin, triển khai trên môi trường ảo hóa khép kín. Dự án mô phỏng thực tế các kịch bản tấn công (Red Team) và phân tích phòng thủ (Blue Team/SOC).
+Repo tổng hợp các kỹ thuật từ các bài lab an toàn thông tin, triển khai trên môi trường ảo hóa khép kín. Dự án mô phỏng thực tế các kịch bản tấn công (Red Team) và phân tích phòng thủ (Blue Team/SOC).
 
 
 
-## 🎯 Tổng quan Kịch bản & Hoạt động
+## Tổng quan Kịch bản & Hoạt động
 
 - **Pentest Activities (Red Team):**
   - **Reconnaissance:** Quét mạng, dò tìm hệ điều hành, ánh xạ dịch vụ và CVE bằng Nmap.
@@ -29,7 +31,7 @@ Repository này tổng hợp toàn bộ báo cáo và minh chứng kỹ thuật 
   - **System Monitoring:** Đánh giá mức độ cạn kiệt tài nguyên (CPU, RAM, Bandwidth) bằng `top` và `iftop` dưới áp lực của DDoS.
   - **Mitigation:** Triển khai các chốt chặn an ninh mạng như bảng ARP tĩnh, ngẫu nhiên hóa cổng nguồn (Source Port Randomization) và phân tích các cơ chế lọc đầu vào (Input Sanitization).
 
-## 🛠️ Summary of Skills & Technologies
+## Summary of Skills & Technologies
 
 - **Security Domains:** Network Recon, L2/L7 MITM, Reflection/Amplification DDoS, Web Application Security (OWASP Top 10).
 - **Tools used:** Nmap, Wireshark, Burp Suite, CSRFTester, `dig`, `top`, `iftop`.
