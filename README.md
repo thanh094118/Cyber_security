@@ -13,7 +13,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/></a>
 </p>
 
-# Network & Web Security Lab Portfolio
+# Network & Web Security Lab
 
 Repo tổng hợp các kỹ thuật từ các bài lab an toàn thông tin, triển khai trên môi trường ảo hóa khép kín. Dự án mô phỏng thực tế các kịch bản tấn công (Red Team) và phân tích phòng thủ (Blue Team/SOC).
 
