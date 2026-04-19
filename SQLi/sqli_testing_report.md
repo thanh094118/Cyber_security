@@ -1,7 +1,7 @@
 # Bài Thực Hành 5: Kiểm thử lỗ hổng SQL Injection
 
 Repository này lưu trữ tài liệu, mã nguồn và báo cáo kết quả thực hành kiểm thử lỗ hổng SQL Injection (SQLi) thuộc bộ môn An toàn Thông tin. Mục tiêu nhằm hiểu rõ cơ chế, phương pháp phát hiện, khai thác và phòng chống lỗ hổng SQLi trên ứng dụng Web.
-
+đắ
 ## 🎯 Trọng tâm bài thực hành
 - **Triển khai môi trường:** Cài đặt và cấu hình máy ảo Linux (Ubuntu 32-bit) trên VirtualBox, thiết lập Web Server (Apache/PHP/MySQL) với mã nguồn chứa lỗ hổng chủ đích.
 - **Sử dụng công cụ:** Làm quen và ứng dụng **Burp Suite** (Intercepting Proxy, Repeater, Decoder) để bắt, chỉnh sửa và phân tích các HTTP Request/Response phục vụ kiểm thử hộp đen.
